@@ -1,4 +1,4 @@
-# Regresión no lineal
+# Regresion-no-lineal
 
 En este proyecto, se generaran regresiones no lineales (polinomial, segmentada, KNN) utilizando los datos de una base de datos que fue generada en la Universidad de Monterrey en el 2022, en la clase de Sistemas Digitales. 
 
